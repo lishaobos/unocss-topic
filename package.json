@@ -1,0 +1,14 @@
+{
+  "name": "unocss-topic",
+  "private": true,
+  "scripts": {
+    "build": "slidev build -o docs",
+    "dev": "slidev",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.36.10",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*"
+  }
+}
