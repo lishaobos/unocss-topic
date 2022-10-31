@@ -11,7 +11,7 @@ drawings:
   persist: false
 css: unocss
 title: CSS 原子化
-end: 阿三大苏打
+download: true
 ---
 
 # CSS 原子化
