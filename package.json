@@ -2,7 +2,7 @@
   "name": "unocss-topic",
   "private": true,
   "scripts": {
-    "build": "slidev build -o docs",
+    "build": "slidev build",
     "dev": "slidev",
     "export": "slidev export"
   },
