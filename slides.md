@@ -28,14 +28,14 @@ css 原子化，工程化，编程直觉化
   <div v-click>
     <div class='mb-10px'>
       当 css 文件加载时长为 5s 时，你访问页面，5s 内你会看到什么？
-      <a href='https://github.com/slidevjs/slidev' target="_blank"><carbon:arrow-right /></a>
+      <a href='http://10.1.2.121:9527' target="_blank"><carbon:arrow-right /></a>
     </div>
 ```html
 <!-- css -->
 <link rel="stylesheet" href="./global.css">
 
 <!-- html -->
-<div class='bg-red'>
+<div class='text'>
   我是一段文本内容
 </div>
 ```
